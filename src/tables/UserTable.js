@@ -39,7 +39,7 @@ const UserTable = (props) => (
         ))
       ) : (
         <tr>
-          <td colSpan={3}>Nenhum usuário selecionado</td>
+          <td colSpan={3}>Nenhum contato cadastrado</td>
         </tr>
       )}
     </tbody>
